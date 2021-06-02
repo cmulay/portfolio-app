@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cPrimary">#ffffff</color>
+    <color name="cPrimaryDark">#000</color>
+    <color name="cAccent">#DDDDDD</color>
+    <color name="bgc_light">#ffffff</color>
+    <color name="ic_tint">#888787</color>
+    <color name="current_nav">#2196F3</color>
+    <color name="circle_work">#8B9DAA</color>
+    <color name="bgc_card">#fbfbfb</color>
+    <color name="c_work_line">#6BB8F6</color>
+
+    <color name="c_menu_item">#000</color>
+
+    <color name="textBlue">#2196F3</color>
+    <color name="textWhite">#fff</color>
+    <color name="textBlack">#000</color>
+    <color name="textGrey">#989898</color>
+</resources>
