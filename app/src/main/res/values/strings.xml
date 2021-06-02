@@ -1,0 +1,111 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Chinmay\'s Resume</string>
+
+    <!-- Home Fragment -->
+    <string name="home_title">Chinmay Mulay</string>
+    <string name="home_aim">Aim</string>
+    <string name="home_aim_desc">Through Code I want to contribute to bring about a change.</string>
+    <string name="home_vision">Vision</string>
+    <string name="home_vision_desc">Make India technologically independent and settle silicon valley
+        in India. </string>
+    <string name="home_skills">Skills</string>
+    <string name="home_skills_one">1. System Programmer</string>
+    <string name="home_skills_two">2. Web Developer</string>
+    <string name="home_skills_three">3. Android Developer</string>
+    <string name="home_skills_four">4. iOS Developer</string>
+    <string name="home_skills_five">5. Machine Learning and AI Trainee</string>
+    <string name="home_languages">Languages</string>
+    <string name="home_languages_one">1. C, C++, Pascal, Bash</string>
+    <string name="home_languages_two">2. MERN &amp; MEAN</string>
+    <string name="home_languages_three">3. Java, Kotlin &amp; Flutter</string>
+    <string name="home_languages_four">4. Swift</string>
+    <string name="home_languages_five">5. Python</string>
+
+    <!-- Edu Fragment -->
+    <string name="edu_title">Academics</string>
+
+    <string name="ssc_title">X Grade</string>
+    <string name="ssc_year">2017</string>
+    <string name="ssc_description">Made me ready for exploring my further path.</string>
+
+    <string name="diploma_title">Diploma in Computer Engineering</string>
+    <string name="diploma_year">2021</string>
+    <string name="diploma_description">
+        It helped me explore my potential, due to no harsh attendance rule I got ample time to dive
+        and explore into new domains and try new ventures.
+    </string>
+
+    <string name="degree_title">Bachelor of Technology in Computer Engineering</string>
+    <string name="degree_year">~ 2025</string>
+    <string name="degree_description">
+        A path yet to be travelled.
+    </string>
+
+
+    <!-- Work Fragment -->
+    <string name="work_experience_title">Work Experience</string>
+
+    <string name="freelancer_title">Freelancer</string>
+    <string name="freelancer_year">2017</string>
+    <string name="freelancer_desc">Delivered android based mobile applications to regional clients.
+    </string>
+
+    <string name="fiverr_title">Fiverr</string>
+    <string name="fiverr_year">2018</string>
+    <string name="fiverr_desc">Delivered a total of 02 Web based projects to clients regional and
+        International clients.</string>
+
+    <string name="dailybla_title">Dailybla, Mumbai</string>
+    <string name="dailybla_year">BD and UI/UX Specialist, \t 2019 - Present</string>
+    <string name="dailybla_desc">Major responsibility of Business Development Management and UI /
+        UX Specialist for Website</string>
+
+    <string name="ctech_title">C-Tech Continentals, Mumbai</string>
+    <string name="ctech_year">Founder and CEO, \t 2018 - Present</string>
+    <string name="ctech_desc">Responsibility taking major decisions, strategic planning and scalable
+        idea solutions.</string>
+
+    <!-- Work Fragment -->
+    <string name="testimonials_title">Testimonials</string>
+    <string name="testimonials_desc">Let\'s take a look at what my professors, colleagues have to
+        say about me </string>
+
+    <string name="t1_name">Amar V. Mange</string>
+    <string name="t1_post">Principal, Diploma</string>
+    <string name="t1_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at
+        tincidunt nisl, luctus dignissim sem. In et nibh quis dolor vulputate facilisis.
+        Nulla vehicula auctor venenatis.</string>
+
+    <string name="t2_name">Sumit Dalvi</string>
+    <string name="t2_post">H.O.D, Diploma</string>
+    <string name="t2_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at
+        tincidunt nisl, luctus dignissim sem. In et nibh quis dolor vulputate facilisis.
+        Nulla vehicula auctor venenatis.</string>
+
+    <string name="t3_name">Jayesh Patil</string>
+    <string name="t3_post">Faculty, Diploma</string>
+    <string name="t3_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at
+        tincidunt nisl, luctus dignissim sem. In et nibh quis dolor vulputate facilisis.
+        Nulla vehicula auctor venenatis.</string>
+
+
+    <!-- Contact Fragment -->
+    <string name="author_name">Chinmay Mulay</string>
+    <string name="author_job_title">Full Stack Developer</string>
+    <string name="author_message">Through Code I contribute to bring about a change.</string>
+
+    <string name="btn_github">GitHub</string>
+    <string name="btn_linkedin">LinkedIn</string>
+
+
+
+
+
+    <!-- Misc -->
+    <string name="desc_work_path">Work Path</string>
+    <string name="work_title">Work Title</string>
+    <string name="user_image">User Image</string>
+    <string name="testimonial_person">Testimonial Person</string>
+    <string name="education_title">Education Title</string>
+</resources>
